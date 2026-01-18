@@ -9,9 +9,6 @@ This dashboard analyzes how Netflix’s content strategy has evolved over time i
 ## ❓ Business Question
 **How has Netflix’s content strategy evolved over time in terms of content type, maturity, and global contribution?**
 
-## 📊 Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
-
 ## 🔍 Key Insights
 - Strong growth in TV Shows over recent years
 - Increase in mature/adult content
