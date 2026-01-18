@@ -19,7 +19,8 @@ This dashboard analyzes how Netflix’s content strategy has evolved over time i
 - Power Query (Data Cleaning & Modeling)
 
 ## 📂 Files
-- `Netflix-Content-Strategy-Dashboard.pbix` – Power BI dashboard file
+- 'Netflix-Content-Strategy-Dashboard.pbix' – Power BI dashboard file
+- 'dashboard_preview' - Dashboard Preview File
 
 ## 👤 Author
 Sairaj Daphale
